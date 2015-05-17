@@ -1,0 +1,1 @@
+This project is a semester-long assignment given by Dr. Hoffman to Joseph Mason, Paul Sim and Brian Fernandez at CSULB for CECS 343 (Introduction to Software Engineering).
